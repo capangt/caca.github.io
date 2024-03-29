@@ -1,0 +1,14 @@
+body {
+  background-color: #D3D3D3; /* Gris clair pour le fond */
+  font-family: 'Arial', sans-serif; /* Police classique */
+}
+
+h1 {
+  font-family: 'Arial Black', sans-serif; /* Police en gras */
+  color: #FF4500; /* Rouge orangé pour les titres */
+}
+
+p {
+  line-height: 1.5;
+  color: #000000; /* Noir pour le texte */
+}
