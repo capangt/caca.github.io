@@ -1,0 +1,14 @@
+body {
+  background-color: #FFFFFF; /* Blanc pour le fond */
+  font-family: 'Arial', sans-serif; /* Police classique */
+}
+
+h1 {
+  font-family: 'Times New Roman', serif; /* Police avec une touche classique */
+  color: #0B5394; /* Bleu pour les titres */
+}
+
+p {
+  line-height: 1.5;
+  color: #D7141A; /* Rouge pour le texte */
+}
