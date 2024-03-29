@@ -1,0 +1,19 @@
+body {
+  background-color: #F0F8FF; /* Bleu pâle pour le fond */
+  font-family: 'Arial', sans-serif; 
+}
+
+h1 {
+  font-family: 'Arial Black', sans-serif; 
+  color: #FFD700; /* Or pour les titres */
+}
+
+p {
+  line-height: 1.5;
+  color: #000080; /* Bleu marine pour le texte */
+}
+
+li {
+  color: #000080; /* Bleu marine pour les listes */
+  list-style: inside; 
+}
